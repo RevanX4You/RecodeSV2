@@ -1676,19 +1676,19 @@ Ket : Ketik /resetgame , Untuk Mereset Permainan Yg Ada Di Grup!`, text, {contex
               gopeynya = 'https://telegra.ph/file/5300c74e3b843b9c0d29d.jpg'
               teksnya = `*── 「 PRICE LIST 」 ──*
 
-*SHERLYNN SEWA BOT WA*
+*VANZ SEWA BOT WA*
 FITUR:ANTILINK,WELCOME,ADD,KICK,DEMOTE,DAN MASIH BANYAK LAGI
 
-HARGA PERMANEN:~25k~ PROMO!!! *10K* MINAT? HUBUNGI OWNER`
+HARGA PERMANEN:~15k~ PROMO!!! *10K* MINAT? HUBUNGI OWNER`
               dha.sendMessage(from, await getBuffer(gopeynya), image, {quoted: mek, caption: teksnya })
               break             
 //------------------< bayar menu >-------------------  
 case 'bayar':
-gopeynya = 'https://telegra.ph/file/5300c74e3b843b9c0d29d.jpg'
+gopeynya = '-_'
 teksnya = ` *「PAYMENT」*
-• GOPAY : scan diatas
-• DANA : 081220670449
-• OVO : scan diatas
+• GOPAY : MINTA NOMOR KE OWNER
+• DANA : 085714897009
+• PULSA : 081524805420
 • QRISS DI ATAS 
 ━━━━━━━━━━━━━━━━━━━━`
         dha.sendMessage(from, await getBuffer(gopeynya), image, {quoted: ftoko, caption: teksnya })
@@ -3467,7 +3467,7 @@ break
               textImg(`${runtime(process.uptime())}`)
               break
        case 'youtube': 
-              reply(`Jangan Lupa Subscribe YT Owner:\n https://youtu.be/Wgi3uOGlmYs`)
+              reply(`Jangan Lupa Sewa bot Owner:\n`)
               break
        case 'masukandata':
              reply(`*「BOT MELAYANI」*\n\n━━━━━━━━━━━━━━━━━━━━\n\nMASUKKANA DATA BERIKUT\n*•NAMA GAME:*\n*•ID GAME:*\n*•USER NAME:*\n━━━━━━━━━━━━━━━━━━━━\n*NOTE:*\n*1.* _JANGAN LUPA BUKTI TRXNYA_\n*2.* _OTOMATIS PESANAN_\n_LANSUNG DI PROSES_\n*3.* _PESANAN ANDA DI PROSES_\n_OLEH_\n\n   *©KurrXd*\n\n_JIKA PESANAN ANDA LOW_\n_PROSES MOHON BERSABAR_\nwa.me/6282287486762`)
